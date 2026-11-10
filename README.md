@@ -3,6 +3,7 @@
 ![Python](https://shields.io)
 ![Pygame](https://shields.io)
 ![License](https://shields.io)
+
 A responsive 2D recreation of the classic **Flappy Bird** arcade game built from scratch using **Python** and **Pygame**. This project demonstrates object-oriented software design, real-time 60 FPS game loop architecture, 2D physics simulation, and bounding-box collision detection.
 
 ---
